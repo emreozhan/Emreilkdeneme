@@ -10,4 +10,5 @@ public class ilkactive extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ilkactive);
     }
+    //2.commit
 }
